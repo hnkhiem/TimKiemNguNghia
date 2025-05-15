@@ -1,0 +1,46 @@
+version: '3.8'
+services:
+  db:
+    image: ankane/pgvector
+    container_name: semantic_search_db
+    restart: always
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: 123456
+      POSTGRES_DB: StudentFormDB
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+
+  ai_service:
+    build: ./ai_service
+    restart: always
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./ai_service:/app 
+    depends_on:
+      - db
+
+  backend:
+    build: ./backend
+    restart: always
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend:/app 
+    depends_on:
+      - db
+      - ai_service
+
+  frontend:
+    build: ./frontend
+    restart: always
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  pg_data:

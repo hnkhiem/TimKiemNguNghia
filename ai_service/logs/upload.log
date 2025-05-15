@@ -1,0 +1,747 @@
+2025-04-08 19:34:38,200 - INFO - Use pytorch device_name: cpu
+2025-04-08 19:34:38,200 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-08 19:34:43,006 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-04-08 19:35:11,481 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\MonHoc\DoAn\DoAnCoSo\BIEUMAU
+2025-04-08 19:37:07,480 - INFO - Use pytorch device_name: cpu
+2025-04-08 19:37:07,480 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-08 19:37:10,798 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\MonHoc\DoAn\DoAnCoSo\BIEUMAU
+2025-04-08 19:38:50,829 - INFO - Use pytorch device_name: cpu
+2025-04-08 19:38:50,829 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-08 19:38:54,181 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\MonHoc\DoAn\DoAnCoSo\BIEUMAU
+2025-04-08 19:39:10,558 - INFO - Use pytorch device_name: cpu
+2025-04-08 19:39:10,558 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-08 19:39:15,075 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\MonHoc\DoAn\DoAnCoSo\BIEUMAU
+2025-04-08 19:39:22,861 - INFO - Use pytorch device_name: cpu
+2025-04-08 19:39:22,861 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-08 19:39:26,668 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\MonHoc\DoAn\DoAnCoSo\BIEUMAU
+2025-04-14 09:17:11,960 - INFO - Use pytorch device_name: cpu
+2025-04-14 09:17:11,960 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-14 09:17:15,420 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\MonHoc\DoAn\DoAnCoSo\BIEUMAU
+2025-04-18 21:04:26,443 - INFO - Use pytorch device_name: cpu
+2025-04-18 21:04:26,443 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-18 21:04:29,918 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\MonHoc\DoAn\DoAnCoSo\BIEUMAU
+2025-04-18 21:04:37,111 - INFO - Use pytorch device_name: cpu
+2025-04-18 21:04:37,111 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-18 21:04:41,681 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\MonHoc\DoAn\DoAnCoSo\BIEUMAU
+2025-04-18 21:10:46,499 - INFO - Use pytorch device_name: cpu
+2025-04-18 21:10:46,499 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-18 21:10:50,881 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic-search-project\Form
+2025-04-18 21:18:00,948 - INFO - Use pytorch device_name: cpu
+2025-04-18 21:18:00,948 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-18 21:18:07,892 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-04-19 18:06:29,469 - INFO - Use pytorch device_name: cpu
+2025-04-19 18:06:29,469 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-19 18:06:33,056 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-04-19 18:06:40,567 - INFO - Use pytorch device_name: cpu
+2025-04-19 18:06:40,567 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-19 18:06:43,851 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-04-19 18:11:13,662 - INFO - Use pytorch device_name: cpu
+2025-04-19 18:11:13,663 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-19 18:11:16,954 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-04-19 18:12:23,167 - INFO - Use pytorch device_name: cpu
+2025-04-19 18:12:23,168 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-19 18:12:26,508 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-04-19 18:13:42,676 - INFO - Use pytorch device_name: cpu
+2025-04-19 18:13:42,676 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-19 18:13:45,825 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-04-19 18:13:54,052 - INFO - Use pytorch device_name: cpu
+2025-04-19 18:13:54,052 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-19 18:13:57,172 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-04-19 20:07:33,766 - INFO - Use pytorch device_name: cpu
+2025-04-19 20:07:33,766 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-19 20:07:37,863 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-04-21 22:50:56,574 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:50:56,575 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-21 22:51:01,857 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-04-21 22:59:52,589 - INFO - Use pytorch device_name: cpu
+2025-04-21 22:59:52,589 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-21 22:59:57,791 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-04-24 08:45:06,823 - INFO - Use pytorch device_name: cpu
+2025-04-24 08:45:06,823 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-24 08:45:12,239 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-05 11:25:47,550 - INFO - Use pytorch device_name: cpu
+2025-05-05 11:25:47,550 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-05 11:25:52,172 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-06 12:43:09,688 - INFO - Use pytorch device_name: cpu
+2025-05-06 12:43:09,689 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-06 12:43:12,931 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-07 13:27:39,389 - INFO - Use pytorch device_name: cpu
+2025-05-07 13:27:39,389 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-07 13:27:43,318 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 07:25:02,228 - INFO - Use pytorch device_name: cpu
+2025-05-08 07:25:02,229 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 07:27:13,660 - INFO - Use pytorch device_name: cpu
+2025-05-08 07:27:13,660 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 07:27:20,203 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 07:27:43,241 - INFO - Use pytorch device_name: cpu
+2025-05-08 07:27:43,241 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 07:27:48,480 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:39:23,759 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:39:23,759 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:39:28,069 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:45:44,255 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:45:44,255 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:45:47,941 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:46:20,099 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:46:20,099 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:46:24,361 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:47:06,909 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:47:06,909 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:47:10,585 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:47:46,921 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:47:46,921 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:47:51,301 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:48:25,470 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:48:25,471 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:48:28,943 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:49:50,706 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:49:50,706 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:49:54,866 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:50:00,882 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:50:00,882 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:50:05,450 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:51:08,967 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:51:08,968 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:51:14,287 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:51:29,515 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:51:29,515 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:51:33,859 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:52:00,207 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:52:00,207 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:52:05,571 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:52:47,554 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:52:47,554 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:52:51,173 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 08:54:00,988 - INFO - Use pytorch device_name: cpu
+2025-05-08 08:54:00,988 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 08:54:04,570 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 09:10:38,349 - INFO - Use pytorch device_name: cpu
+2025-05-08 09:10:38,349 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 09:10:44,067 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 09:14:04,295 - INFO - Use pytorch device_name: cpu
+2025-05-08 09:14:04,295 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 09:14:08,437 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 09:34:52,862 - INFO - Use pytorch device_name: cpu
+2025-05-08 09:34:52,862 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 09:34:57,903 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 09:44:21,332 - INFO - Use pytorch device_name: cpu
+2025-05-08 09:44:21,332 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 09:44:27,047 - INFO - \U0001f4c2 \u0110ang load bi\u1ec3u m\u1eabu t\u1eeb th\u01b0 m\u1ee5c m\u1eb7c \u0111\u1ecbnh: D:\semantic_search_project\Form
+2025-05-08 23:04:39,824 - INFO - Use pytorch device_name: cpu
+2025-05-08 23:04:39,824 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 17:20:54,468 - INFO - Use pytorch device_name: cpu
+2025-05-08 17:20:54,469 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 17:29:33,768 - INFO - Use pytorch device_name: cpu
+2025-05-08 17:29:33,769 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 17:35:10,900 - INFO - Use pytorch device_name: cpu
+2025-05-08 17:35:10,900 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 18:30:19,421 - INFO - Use pytorch device_name: cpu
+2025-05-08 18:30:19,422 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 18:32:08,074 - INFO - Use pytorch device_name: cpu
+2025-05-08 18:32:08,075 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 18:39:27,728 - INFO - Use pytorch device_name: cpu
+2025-05-08 18:39:27,729 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 18:44:35,760 - INFO - Use pytorch device_name: cpu
+2025-05-08 18:44:35,761 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 18:57:02,316 - INFO - Use pytorch device_name: cpu
+2025-05-08 18:57:02,316 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 19:07:21,838 - INFO - Use pytorch device_name: cpu
+2025-05-08 19:07:21,839 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 19:19:34,051 - INFO - Use pytorch device_name: cpu
+2025-05-08 19:19:34,052 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 19:22:43,401 - INFO - Use pytorch device_name: cpu
+2025-05-08 19:22:43,402 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 19:31:11,457 - INFO - Use pytorch device_name: cpu
+2025-05-08 19:31:11,457 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-08 19:35:50,583 - INFO - Use pytorch device_name: cpu
+2025-05-08 19:35:50,584 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 05:04:36,802 - INFO - Use pytorch device_name: cpu
+2025-05-09 05:04:36,803 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 06:22:24,944 - INFO - Use pytorch device_name: cpu
+2025-05-09 06:22:24,945 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 07:56:51,884 - INFO - Use pytorch device_name: cpu
+2025-05-09 07:56:51,884 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:05:02,602 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:05:02,603 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:07:09,555 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:07:09,555 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:09:51,453 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:09:51,453 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:16:01,105 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:16:01,106 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:33:34,467 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:33:34,468 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:40:44,521 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:40:44,522 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:41:21,731 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:41:21,732 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:41:53,347 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:41:53,347 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:42:13,559 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:42:13,559 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:45:28,546 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:45:28,546 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:46:28,982 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:46:28,982 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 08:53:03,961 - INFO - Use pytorch device_name: cpu
+2025-05-09 08:53:03,961 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 11:54:26,644 - INFO - Use pytorch device_name: cpu
+2025-05-09 11:54:26,645 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:00:02,780 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:00:02,781 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:10:13,038 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:10:13,039 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:13:12,478 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:13:12,478 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:17:38,606 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:17:38,607 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:17:52,375 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:17:52,375 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:18:40,442 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:18:40,443 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:19:18,380 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:19:18,380 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:20:20,192 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:20:20,192 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:20:41,600 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:20:41,601 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:31:26,942 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:31:26,942 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:39:02,885 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:39:02,886 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:41:00,595 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:41:00,596 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:42:03,235 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:42:03,235 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:48:46,610 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:48:46,611 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:51:26,587 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:51:26,587 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:52:54,824 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:52:54,825 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 13:58:51,959 - INFO - Use pytorch device_name: cpu
+2025-05-09 13:58:51,960 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 14:00:59,958 - INFO - Use pytorch device_name: cpu
+2025-05-09 14:00:59,958 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 14:04:41,864 - INFO - Use pytorch device_name: cpu
+2025-05-09 14:04:41,865 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 14:10:07,022 - INFO - Use pytorch device_name: cpu
+2025-05-09 14:10:07,023 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 14:20:34,497 - INFO - Use pytorch device_name: cpu
+2025-05-09 14:20:34,497 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 14:28:02,590 - INFO - Use pytorch device_name: cpu
+2025-05-09 14:28:02,590 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 14:29:39,380 - INFO - Use pytorch device_name: cpu
+2025-05-09 14:29:39,380 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 14:32:27,075 - INFO - Use pytorch device_name: cpu
+2025-05-09 14:32:27,075 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 14:33:09,005 - INFO - Use pytorch device_name: cpu
+2025-05-09 14:33:09,005 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 15:02:18,063 - INFO - Use pytorch device_name: cpu
+2025-05-09 15:02:18,063 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 15:05:32,234 - INFO - Use pytorch device_name: cpu
+2025-05-09 15:05:32,234 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 15:08:14,605 - INFO - Use pytorch device_name: cpu
+2025-05-09 15:08:14,606 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 15:13:40,808 - INFO - Use pytorch device_name: cpu
+2025-05-09 15:13:40,809 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 15:18:58,878 - INFO - Use pytorch device_name: cpu
+2025-05-09 15:18:58,878 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 15:32:21,287 - INFO - Use pytorch device_name: cpu
+2025-05-09 15:32:21,288 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 15:34:02,976 - INFO - Use pytorch device_name: cpu
+2025-05-09 15:34:02,977 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 15:37:07,661 - INFO - Use pytorch device_name: cpu
+2025-05-09 15:37:07,662 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-09 15:44:19,937 - INFO - Use pytorch device_name: cpu
+2025-05-09 15:44:19,938 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 00:29:42,997 - INFO - Use pytorch device_name: cpu
+2025-05-10 00:29:43,004 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 00:31:17,590 - INFO - Use pytorch device_name: cpu
+2025-05-10 00:31:17,591 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 03:51:12,037 - INFO - Use pytorch device_name: cpu
+2025-05-10 03:51:12,037 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 13:19:09,899 - INFO - Use pytorch device_name: cpu
+2025-05-10 13:19:09,899 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 13:30:49,063 - INFO - Use pytorch device_name: cpu
+2025-05-10 13:30:49,063 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 13:39:24,805 - INFO - Use pytorch device_name: cpu
+2025-05-10 13:39:24,806 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 13:39:33,144 - INFO - Use pytorch device_name: cpu
+2025-05-10 13:39:33,144 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 13:46:52,567 - INFO - Use pytorch device_name: cpu
+2025-05-10 13:46:52,567 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 13:49:12,299 - INFO - Use pytorch device_name: cpu
+2025-05-10 13:49:12,300 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 13:49:35,202 - INFO - Use pytorch device_name: cpu
+2025-05-10 13:49:35,202 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:04:32,836 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:04:32,836 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:04:42,895 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:04:42,895 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:04:53,853 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:04:53,853 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:06:40,923 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:06:40,924 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:07:08,826 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:07:08,826 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:08:31,283 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịch
+2025-05-10 14:08:31,412 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 14:08:31,417 - ERROR - Lỗi trong quá trình tìm kiếm: relation "froms" does not exist
+LINE 3:             FROM froms
+                         ^
+
+2025-05-10 14:09:09,882 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:09:09,883 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:09:18,663 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:09:18,664 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:09:28,557 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:09:28,558 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:09:36,145 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:09:36,145 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:09:43,859 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:09:43,860 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:09:57,060 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:09:57,061 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:12:27,205 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịch
+2025-05-10 14:12:27,905 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 14:12:46,084 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịch
+2025-05-10 14:12:46,152 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 14:12:56,781 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịch
+2025-05-10 14:12:56,832 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 14:20:55,277 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:20:55,278 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:24:02,547 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:24:02,547 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:24:12,167 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:24:12,168 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:24:19,634 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:24:19,634 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:24:37,063 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:24:37,064 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:25:16,667 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịch
+2025-05-10 14:25:16,825 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 14:25:32,039 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lich
+2025-05-10 14:25:32,085 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 14:25:33,837 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịc
+2025-05-10 14:25:33,910 - INFO - Query embedding: [ 0.01573523  0.03367148 -0.00295363  0.06361292  0.03293373  0.05040866
+  0.01100875  0.01193377  0.01020892  0.03506453]
+2025-05-10 14:25:38,217 - INFO - 🔍 Đang tìm kiếm với truy vấn: lchuyern
+2025-05-10 14:25:38,270 - INFO - Query embedding: [ 0.00416322  0.03637163  0.02477782  0.01543745 -0.09020206  0.02834086
+  0.00111641  0.01561999  0.03002966  0.02506457]
+2025-05-10 14:25:38,751 - INFO - 🔍 Đang tìm kiếm với truy vấn: lchuyern
+2025-05-10 14:25:38,794 - INFO - Query embedding: [ 0.00416322  0.03637163  0.02477782  0.01543745 -0.09020206  0.02834086
+  0.00111641  0.01561999  0.03002966  0.02506457]
+2025-05-10 14:25:41,292 - INFO - 🔍 Đang tìm kiếm với truy vấn: chuyển
+2025-05-10 14:25:41,339 - INFO - Query embedding: [-0.00850854  0.01851814  0.02055727 -0.01859646  0.00501207  0.03299134
+ -0.0740064  -0.00174875 -0.0832968   0.0061841 ]
+2025-05-10 14:25:43,008 - INFO - 🔍 Đang tìm kiếm với truy vấn: chuyển ngah
+2025-05-10 14:25:43,053 - INFO - Query embedding: [-0.00666166  0.01080139  0.00692337 -0.02203011  0.01765971  0.03311316
+ -0.07532883 -0.01714476 -0.03437899  0.02365403]
+2025-05-10 14:25:44,459 - INFO - 🔍 Đang tìm kiếm với truy vấn: chuyển ngành
+2025-05-10 14:25:44,507 - INFO - Query embedding: [-0.01405489  0.01986887  0.01321012 -0.02574739 -0.00396613  0.03001745
+ -0.07121783 -0.02269231 -0.03087061 -0.00020456]
+2025-05-10 14:26:15,312 - INFO - 🔍 Đang tìm kiếm với truy vấn: chuyển ngành
+2025-05-10 14:26:15,405 - INFO - Query embedding: [-0.01405489  0.01986887  0.01321012 -0.02574739 -0.00396613  0.03001745
+ -0.07121783 -0.02269231 -0.03087061 -0.00020456]
+2025-05-10 14:27:15,824 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:27:15,824 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:27:51,806 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:27:51,807 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:28:11,270 - INFO - 🔍 Đang tìm kiếm với truy vấn: chuyển ngành
+2025-05-10 14:28:11,386 - INFO - Query embedding: [-0.01405489  0.01986887  0.01321012 -0.02574739 -0.00396613  0.03001745
+ -0.07121783 -0.02269231 -0.03087061 -0.00020456]
+2025-05-10 14:28:11,392 - ERROR - Lỗi trong quá trình tìm kiếm: tuple index out of range
+2025-05-10 14:28:19,635 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịch
+2025-05-10 14:28:19,694 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 14:28:19,698 - ERROR - Lỗi trong quá trình tìm kiếm: tuple index out of range
+2025-05-10 14:28:38,535 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:28:38,535 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:28:51,955 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:28:51,956 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:29:43,600 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịch
+2025-05-10 14:29:43,681 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 14:29:47,782 - INFO - 🔍 Đang tìm kiếm với truy vấn: chuyển ngành
+2025-05-10 14:29:47,837 - INFO - Query embedding: [-0.01405489  0.01986887  0.01321012 -0.02574739 -0.00396613  0.03001745
+ -0.07121783 -0.02269231 -0.03087061 -0.00020456]
+2025-05-10 14:29:55,409 - INFO - 🔍 Đang tìm kiếm với truy vấn: chuyển ngành
+2025-05-10 14:29:55,470 - INFO - Query embedding: [-0.01405489  0.01986887  0.01321012 -0.02574739 -0.00396613  0.03001745
+ -0.07121783 -0.02269231 -0.03087061 -0.00020456]
+2025-05-10 14:30:17,712 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:30:17,712 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:30:42,944 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:30:42,944 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:31:29,936 - INFO - 🔍 Đang tìm kiếm với truy vấn: chuyển ngành
+2025-05-10 14:31:30,005 - INFO - Query embedding: [-0.01405489  0.01986887  0.01321012 -0.02574739 -0.00396613  0.03001745
+ -0.07121783 -0.02269231 -0.03087061 -0.00020456]
+2025-05-10 14:34:16,799 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:34:16,799 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:34:24,343 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:34:24,343 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:35:11,618 - INFO - Use pytorch device_name: cpu
+2025-05-10 14:35:11,619 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-10 14:35:56,427 - INFO - 🔍 Đang tìm kiếm với truy vấn: chuyển ngành
+2025-05-10 14:35:56,508 - INFO - Query embedding: [-0.01405489  0.01986887  0.01321012 -0.02574739 -0.00396613  0.03001745
+ -0.07121783 -0.02269231 -0.03087061 -0.00020456]
+2025-05-10 14:36:22,498 - INFO - 🔍 Đang tìm kiếm với truy vấn: chuyển ngành
+2025-05-10 14:36:22,577 - INFO - Query embedding: [-0.01405489  0.01986887  0.01321012 -0.02574739 -0.00396613  0.03001745
+ -0.07121783 -0.02269231 -0.03087061 -0.00020456]
+2025-05-10 14:37:06,753 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịch
+2025-05-10 14:37:07,278 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 14:37:14,929 - INFO - 🔍 Đang tìm kiếm với truy vấn: nghỉ học
+2025-05-10 14:37:14,988 - INFO - Query embedding: [-8.5812639e-03 -3.4078255e-02  3.5385380e-03 -9.6632655e-05
+  2.2627485e-03 -1.9360527e-02 -3.8872540e-02 -1.1394650e-02
+  4.0264647e-02 -4.7683781e-03]
+2025-05-10 15:03:50,773 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịch
+2025-05-10 15:03:51,069 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 15:04:16,133 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý lịch
+2025-05-10 15:04:16,203 - INFO - Query embedding: [-0.01856828  0.04683721  0.01385444  0.02048498 -0.0161213   0.0077285
+  0.02166358 -0.01622082  0.01213117 -0.00691393]
+2025-05-10 15:06:14,132 - INFO - 🔍 Đang tìm kiếm với truy vấn: lý
+2025-05-10 15:06:14,190 - INFO - Query embedding: [ 0.00179142  0.06246729 -0.01236554  0.02799285  0.00269861  0.02565898
+  0.00754047  0.00812914  0.01442077  0.05312483]
+2025-05-10 15:09:04,554 - INFO - 🔍 Đang tìm kiếm với truy vấn: T
+2025-05-10 15:09:04,599 - INFO - Query embedding: [-0.02361834 -0.06379012 -0.0413783   0.02691235  0.00855618  0.01800406
+ -0.03804645  0.039386   -0.04607669  0.05150254]
+2025-05-10 15:09:27,888 - INFO - 🔍 Đang tìm kiếm với truy vấn: Thông tin sinh viên
+2025-05-10 15:09:28,008 - INFO - Query embedding: [-0.00094448 -0.05112812  0.01162448 -0.00113619 -0.02021316  0.00256161
+ -0.01999704 -0.02308377  0.04960421 -0.00925827]
+2025-05-10 15:12:44,810 - INFO - 🔍 Đang tìm kiếm với truy vấn: Thông tin sinh viên
+2025-05-10 15:12:44,870 - INFO - Query embedding: [-0.00094448 -0.05112812  0.01162448 -0.00113619 -0.02021316  0.00256161
+ -0.01999704 -0.02308377  0.04960421 -0.00925827]
+2025-05-10 15:12:50,475 - INFO - 🔍 Đang tìm kiếm với truy vấn: nghỉ học
+2025-05-10 15:12:50,523 - INFO - Query embedding: [-8.5812639e-03 -3.4078255e-02  3.5385380e-03 -9.6632655e-05
+  2.2627485e-03 -1.9360527e-02 -3.8872540e-02 -1.1394650e-02
+  4.0264647e-02 -4.7683781e-03]
+2025-05-12 05:46:23,794 - INFO - Use pytorch device_name: cpu
+2025-05-12 05:46:23,795 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 05:56:08,991 - INFO - Use pytorch device_name: cpu
+2025-05-12 05:56:08,992 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 07:01:51,747 - INFO - Use pytorch device_name: cpu
+2025-05-12 07:01:51,747 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 09:14:10,618 - INFO - Use pytorch device_name: cpu
+2025-05-12 09:14:10,619 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 09:17:53,092 - INFO - Use pytorch device_name: cpu
+2025-05-12 09:17:53,093 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 09:22:14,978 - INFO - Use pytorch device_name: cpu
+2025-05-12 09:22:14,978 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 09:31:39,393 - INFO - Use pytorch device_name: cpu
+2025-05-12 09:31:39,393 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 09:33:54,683 - INFO - Use pytorch device_name: cpu
+2025-05-12 09:33:54,684 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 09:40:23,848 - INFO - Use pytorch device_name: cpu
+2025-05-12 09:40:23,849 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 09:45:06,986 - INFO - Use pytorch device_name: cpu
+2025-05-12 09:45:06,986 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 09:52:30,018 - INFO - Use pytorch device_name: cpu
+2025-05-12 09:52:30,018 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 10:00:11,785 - INFO - Use pytorch device_name: cpu
+2025-05-12 10:00:11,785 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 10:13:15,887 - INFO - Use pytorch device_name: cpu
+2025-05-12 10:13:15,887 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 10:38:01,187 - INFO - Use pytorch device_name: cpu
+2025-05-12 10:38:01,187 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 10:46:06,397 - INFO - Use pytorch device_name: cpu
+2025-05-12 10:46:06,397 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 10:48:31,436 - INFO - Use pytorch device_name: cpu
+2025-05-12 10:48:31,436 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 10:59:52,609 - INFO - Use pytorch device_name: cpu
+2025-05-12 10:59:52,609 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 11:09:28,961 - INFO - Use pytorch device_name: cpu
+2025-05-12 11:09:28,962 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 11:24:15,906 - INFO - Use pytorch device_name: cpu
+2025-05-12 11:24:15,906 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 11:34:59,648 - INFO - Use pytorch device_name: cpu
+2025-05-12 11:34:59,648 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 11:41:04,794 - INFO - Use pytorch device_name: cpu
+2025-05-12 11:41:04,795 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 11:51:05,831 - INFO - Use pytorch device_name: cpu
+2025-05-12 11:51:05,832 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 11:53:02,870 - INFO - Use pytorch device_name: cpu
+2025-05-12 11:53:02,871 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 11:57:45,607 - INFO - Use pytorch device_name: cpu
+2025-05-12 11:57:45,608 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 12:17:41,410 - INFO - Use pytorch device_name: cpu
+2025-05-12 12:17:41,411 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 12:44:56,480 - INFO - Use pytorch device_name: cpu
+2025-05-12 12:44:56,480 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 14:07:44,813 - INFO - Use pytorch device_name: cpu
+2025-05-12 14:07:44,813 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 14:12:12,016 - INFO - Use pytorch device_name: cpu
+2025-05-12 14:12:12,016 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 14:20:44,947 - INFO - Use pytorch device_name: cpu
+2025-05-12 14:20:44,948 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 14:28:06,015 - INFO - Use pytorch device_name: cpu
+2025-05-12 14:28:06,015 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 14:37:32,368 - INFO - Use pytorch device_name: cpu
+2025-05-12 14:37:32,369 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 15:21:58,828 - INFO - Use pytorch device_name: cpu
+2025-05-12 15:21:58,829 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 15:26:03,798 - INFO - Use pytorch device_name: cpu
+2025-05-12 15:26:03,799 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 15:32:16,089 - INFO - Use pytorch device_name: cpu
+2025-05-12 15:32:16,089 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 15:36:30,210 - INFO - Use pytorch device_name: cpu
+2025-05-12 15:36:30,210 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 15:42:30,265 - INFO - Use pytorch device_name: cpu
+2025-05-12 15:42:30,265 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 15:46:10,597 - INFO - Use pytorch device_name: cpu
+2025-05-12 15:46:10,597 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 15:51:35,352 - INFO - Use pytorch device_name: cpu
+2025-05-12 15:51:35,352 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-12 16:09:45,962 - INFO - Use pytorch device_name: cpu
+2025-05-12 16:09:45,963 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 07:49:33,660 - INFO - Use pytorch device_name: cpu
+2025-05-13 07:49:33,661 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 07:54:22,889 - INFO - 🔍 Đang tìm kiếm với truy vấn: phieu
+2025-05-13 07:54:22,965 - INFO - Query embedding: [-0.00093645 -0.02954974  0.01250133 -0.00086564  0.01659305  0.0274462
+ -0.0310617  -0.01539932  0.0273836  -0.01197818]
+2025-05-13 07:54:23,016 - INFO - 🔍 Đang tìm kiếm với truy vấn: phieu
+2025-05-13 07:54:23,062 - INFO - Query embedding: [-0.00093645 -0.02954974  0.01250133 -0.00086564  0.01659305  0.0274462
+ -0.0310617  -0.01539932  0.0273836  -0.01197818]
+2025-05-13 07:54:23,149 - INFO - 🔍 Đang tìm kiếm với truy vấn: phieu
+2025-05-13 07:54:23,198 - INFO - Query embedding: [-0.00093645 -0.02954974  0.01250133 -0.00086564  0.01659305  0.0274462
+ -0.0310617  -0.01539932  0.0273836  -0.01197818]
+2025-05-13 07:54:23,270 - INFO - 🔍 Đang tìm kiếm với truy vấn: phieu
+2025-05-13 07:54:23,320 - INFO - Query embedding: [-0.00093645 -0.02954974  0.01250133 -0.00086564  0.01659305  0.0274462
+ -0.0310617  -0.01539932  0.0273836  -0.01197818]
+2025-05-13 07:54:23,493 - INFO - 🔍 Đang tìm kiếm với truy vấn: phieu
+2025-05-13 07:54:23,547 - INFO - Query embedding: [-0.00093645 -0.02954974  0.01250133 -0.00086564  0.01659305  0.0274462
+ -0.0310617  -0.01539932  0.0273836  -0.01197818]
+2025-05-13 10:01:26,827 - INFO - Use pytorch device_name: cpu
+2025-05-13 10:01:26,827 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 10:24:10,860 - INFO - Use pytorch device_name: cpu
+2025-05-13 10:24:10,861 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 12:05:04,537 - INFO - Use pytorch device_name: cpu
+2025-05-13 12:05:04,537 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 13:43:51,797 - INFO - Use pytorch device_name: cpu
+2025-05-13 13:43:51,798 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 13:44:23,713 - INFO - Use pytorch device_name: cpu
+2025-05-13 13:44:23,713 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 14:47:06,470 - INFO - Use pytorch device_name: cpu
+2025-05-13 14:47:06,471 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 14:50:43,645 - INFO - Use pytorch device_name: cpu
+2025-05-13 14:50:43,645 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 14:55:37,446 - INFO - Use pytorch device_name: cpu
+2025-05-13 14:55:37,446 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 15:05:29,408 - INFO - Use pytorch device_name: cpu
+2025-05-13 15:05:29,409 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 15:40:54,516 - INFO - Use pytorch device_name: cpu
+2025-05-13 15:40:54,516 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 15:45:18,757 - INFO - Use pytorch device_name: cpu
+2025-05-13 15:45:18,757 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 15:49:57,204 - INFO - Use pytorch device_name: cpu
+2025-05-13 15:49:57,205 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 15:58:06,522 - INFO - Use pytorch device_name: cpu
+2025-05-13 15:58:06,523 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 16:01:58,207 - INFO - Use pytorch device_name: cpu
+2025-05-13 16:01:58,207 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 16:06:38,714 - INFO - Use pytorch device_name: cpu
+2025-05-13 16:06:38,714 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-13 16:19:41,747 - INFO - Use pytorch device_name: cpu
+2025-05-13 16:19:41,748 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 02:42:03,508 - INFO - Use pytorch device_name: cpu
+2025-05-14 02:42:03,508 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 02:42:11,498 - INFO - Use pytorch device_name: cpu
+2025-05-14 02:42:11,498 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 02:43:07,728 - INFO - Use pytorch device_name: cpu
+2025-05-14 02:43:07,729 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 02:43:23,821 - INFO - Use pytorch device_name: cpu
+2025-05-14 02:43:23,822 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 02:45:12,796 - INFO - 🔍 Semantic search: Toio
+2025-05-14 02:45:23,854 - INFO - 🔍 Semantic search: Tôi muốn nhập học
+2025-05-14 03:58:03,306 - INFO - Use pytorch device_name: cpu
+2025-05-14 03:58:03,306 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 04:36:40,807 - INFO - Use pytorch device_name: cpu
+2025-05-14 04:36:40,807 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 04:36:47,552 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-14 12:22:49,320 - INFO - Use pytorch device_name: cpu
+2025-05-14 12:22:49,320 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 12:22:53,917 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-14 12:27:37,926 - INFO - Use pytorch device_name: cpu
+2025-05-14 12:27:37,927 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 12:27:44,571 - INFO - Use pytorch device_name: cpu
+2025-05-14 12:27:44,571 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 12:27:53,293 - INFO - Use pytorch device_name: cpu
+2025-05-14 12:27:53,293 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 12:46:48,092 - INFO - Use pytorch device_name: cpu
+2025-05-14 12:46:48,093 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 12:46:52,183 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-14 12:55:14,911 - INFO - 🔍 Semantic search: nha trang
+2025-05-14 12:55:14,989 - INFO - 🔍 Semantic search: nha trang
+2025-05-14 12:55:19,551 - INFO - 🔍 Semantic search: học lại
+2025-05-14 12:55:27,028 - INFO - 🔍 Semantic search: hủy học
+2025-05-14 12:55:27,146 - INFO - 🔍 Semantic search: hủy học
+2025-05-14 12:55:37,898 - INFO - 🔍 Semantic search: chuyển điểm
+2025-05-14 12:55:37,973 - INFO - 🔍 Semantic search: chuyển điểm
+2025-05-14 12:55:39,264 - INFO - 🔍 Semantic search: chuyển điểm
+2025-05-14 12:55:45,960 - INFO - 🔍 Semantic search: k
+2025-05-14 12:55:48,469 - INFO - 🔍 Semantic search: khuyết tật
+2025-05-14 12:56:36,573 - INFO - 🔍 Semantic search: tường
+2025-05-14 12:56:38,318 - INFO - 🔍 Semantic search: tường trinhf
+2025-05-14 12:56:39,110 - INFO - 🔍 Semantic search: tường trình
+2025-05-14 12:56:49,943 - INFO - 🔍 Semantic search: tu
+2025-05-14 12:56:52,096 - INFO - 🔍 Semantic search: tường trình
+2025-05-14 12:57:47,622 - INFO - 🔍 Semantic search: lý llichj
+2025-05-14 12:57:49,615 - INFO - 🔍 Semantic search: lý luc
+2025-05-14 12:57:51,946 - INFO - 🔍 Semantic search: lý lịch
+2025-05-14 12:57:57,328 - INFO - 🔍 Semantic search: học 
+2025-05-14 12:57:58,607 - INFO - 🔍 Semantic search: học bổng
+2025-05-14 12:58:04,796 - INFO - 🔍 Semantic search: học bổxng
+2025-05-14 12:58:05,464 - INFO - 🔍 Semantic search: học bổng
+2025-05-14 12:58:07,039 - INFO - 🔍 Semantic search: học ng
+2025-05-14 12:58:09,488 - INFO - 🔍 Semantic search: học
+2025-05-14 12:58:11,771 - INFO - 🔍 Semantic search: nghgi
+2025-05-14 12:58:13,707 - INFO - 🔍 Semantic search: nghĩ học
+2025-05-14 12:58:22,463 - INFO - 🔍 Semantic search: thôi học
+2025-05-14 13:00:09,176 - INFO - 🔍 Semantic search: học bổng
+2025-05-14 13:00:15,555 - INFO - 🔍 Semantic search: h
+2025-05-14 13:00:18,111 - INFO - 🔍 Semantic search: học bổng
+2025-05-14 13:00:31,710 - INFO - 🔍 Semantic search: học lại
+2025-05-14 13:00:32,078 - INFO - 🔍 Semantic search: học lại
+2025-05-14 13:00:47,472 - INFO - 🔍 Semantic search: học
+2025-05-14 13:00:49,311 - INFO - 🔍 Semantic search: hoclai
+2025-05-14 13:00:56,880 - INFO - 🔍 Semantic search: hoc
+2025-05-14 13:00:58,317 - INFO - 🔍 Semantic search: hocbong
+2025-05-14 13:01:17,531 - INFO - 🔍 Semantic search: ly
+2025-05-14 13:01:19,238 - INFO - 🔍 Semantic search: lylich
+2025-05-14 13:01:22,895 - INFO - 🔍 Semantic search: lý lịch
+2025-05-14 13:01:33,792 - INFO - 🔍 Semantic search: nha
+2025-05-14 13:01:35,053 - INFO - 🔍 Semantic search: nha trang
+2025-05-14 13:01:38,496 - INFO - 🔍 Semantic search: hutech
+2025-05-14 13:01:43,872 - INFO - 🔍 Semantic search: chuyển điểm
+2025-05-14 13:36:28,423 - INFO - Use pytorch device_name: cpu
+2025-05-14 13:36:28,423 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 13:37:42,674 - INFO - Use pytorch device_name: cpu
+2025-05-14 13:37:42,675 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 13:37:49,893 - INFO - Use pytorch device_name: cpu
+2025-05-14 13:37:49,894 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 13:38:31,716 - INFO - Use pytorch device_name: cpu
+2025-05-14 13:38:31,717 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 13:38:35,277 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-14 13:39:23,745 - INFO - Use pytorch device_name: cpu
+2025-05-14 13:39:23,745 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 13:39:40,833 - INFO - Use pytorch device_name: cpu
+2025-05-14 13:39:40,833 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-14 13:39:44,963 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-14 13:43:55,297 - INFO - 🔍 Semantic search: tuong
+2025-05-14 13:43:57,208 - INFO - 🔍 Semantic search: tuongtrinh
+2025-05-14 13:43:59,173 - INFO - 🔍 Semantic search: tương
+2025-05-14 13:44:01,192 - INFO - 🔍 Semantic search: tường
+2025-05-14 13:44:03,560 - INFO - 🔍 Semantic search: tường tr
+2025-05-14 13:44:05,420 - INFO - 🔍 Semantic search: tường trình
+2025-05-14 13:44:06,295 - INFO - 🔍 Semantic search: tường trìn
+2025-05-14 14:22:45,506 - INFO - Use pytorch device_name: cpu
+2025-05-14 14:22:45,507 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 00:18:31,042 - INFO - Use pytorch device_name: cpu
+2025-05-15 00:18:31,043 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 00:23:01,141 - INFO - 🔍 Semantic search: tooi
+2025-05-15 00:23:11,739 - INFO - 🔍 Semantic search: Thp
+2025-05-15 00:23:15,907 - INFO - 🔍 Semantic search: Thông tin sinh viên
+2025-05-15 00:24:58,072 - INFO - 🔍 Semantic search: Tôi muốn nghỉ học
+2025-05-15 00:24:58,184 - INFO - 🔍 Semantic search: Tôi muốn nghỉ học
+2025-05-15 00:25:59,431 - INFO - 🔍 Semantic search: xin học 
+2025-05-15 00:26:04,926 - INFO - 🔍 Semantic search: Đơn xin học bỏng
+2025-05-15 00:26:05,040 - INFO - 🔍 Semantic search: Đơn xin học bỏng
+2025-05-15 00:26:07,075 - INFO - 🔍 Semantic search: Đơn xin học bỏngo
+2025-05-15 00:26:07,219 - INFO - 🔍 Semantic search: Đơn xin học bỏngo
+2025-05-15 00:26:10,251 - INFO - 🔍 Semantic search: Đơn xin học bỏng
+2025-05-15 00:26:11,985 - INFO - 🔍 Semantic search: Đơn xin học bổng
+2025-05-15 00:26:34,546 - INFO - 🔍 Semantic search: hủy 
+2025-05-15 00:26:35,170 - INFO - 🔍 Semantic search: hủy m
+2025-05-15 00:26:37,664 - INFO - 🔍 Semantic search: hủy môn học
+2025-05-15 01:05:37,935 - INFO - 🔍 Semantic search: đă
+2025-05-15 01:05:41,039 - INFO - 🔍 Semantic search: nghĩ học
+2025-05-15 01:05:42,024 - INFO - 🔍 Semantic search: nghĩ học
+2025-05-15 01:05:44,069 - INFO - 🔍 Semantic search: nghĩ
+2025-05-15 01:05:45,509 - INFO - 🔍 Semantic search: nghihoc
+2025-05-15 01:05:50,334 - INFO - 🔍 Semantic search: ngh
+2025-05-15 01:05:51,990 - INFO - 🔍 Semantic search: nghĩ học
+2025-05-15 02:00:00,635 - INFO - 🔍 Semantic search: v
+2025-05-15 02:00:02,976 - INFO - 🔍 Semantic search: chuyen nganh
+2025-05-15 02:04:20,215 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:04:20,216 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:04:23,880 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-15 02:07:37,475 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-15 02:09:38,302 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:09:38,303 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:09:41,126 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-15 02:10:23,761 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:10:23,761 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:10:28,688 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-15 02:11:49,537 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:11:49,537 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:12:21,828 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:12:21,828 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:12:28,449 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-15 02:14:45,662 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:14:45,663 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:14:49,862 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-15 02:15:34,335 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:15:34,335 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:16:15,098 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:16:15,099 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:16:20,372 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-15 02:17:49,428 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:17:49,428 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:18:18,495 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:18:18,495 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:18:22,755 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-15 02:19:19,360 - INFO - 🔍 Semantic search: tường trìn
+2025-05-15 02:19:35,371 - INFO - 🔍 Semantic search: tường trìn
+2025-05-15 02:19:43,615 - INFO - 🔍 Semantic search: khuyet
+2025-05-15 02:19:44,708 - INFO - 🔍 Semantic search: khuyetta
+2025-05-15 02:19:45,691 - INFO - 🔍 Semantic search: khuyettat
+2025-05-15 02:20:04,202 - INFO - 🔍 Semantic search: ly
+2025-05-15 02:20:05,819 - INFO - 🔍 Semantic search: lý lịch
+2025-05-15 02:21:02,758 - INFO - 🔍 Semantic search: khuyết tât
+2025-05-15 02:21:03,733 - INFO - 🔍 Semantic search: khuyết tất
+2025-05-15 02:21:04,459 - INFO - 🔍 Semantic search: khuyết tật
+2025-05-15 02:21:06,179 - INFO - 🔍 Semantic search: khuyết tật
+2025-05-15 02:21:26,889 - INFO - 🔍 Semantic search: thông tin sinh viên
+2025-05-15 02:21:35,841 - INFO - 🔍 Semantic search: Nghĩ t
+2025-05-15 02:21:36,354 - INFO - 🔍 Semantic search: Nghĩ tj
+2025-05-15 02:21:38,198 - INFO - 🔍 Semantic search: Nghĩ 
+2025-05-15 02:21:40,263 - INFO - 🔍 Semantic search: Nghỉ
+2025-05-15 02:21:41,679 - INFO - 🔍 Semantic search: Nghỉ học
+2025-05-15 02:21:49,126 - INFO - 🔍 Semantic search: hủy học phần
+2025-05-15 02:22:09,157 - INFO - 🔍 Semantic search: đi
+2025-05-15 02:22:15,147 - INFO - 🔍 Semantic search: đ
+2025-05-15 02:22:16,568 - INFO - 🔍 Semantic search: đ88
+2025-05-15 02:22:18,006 - INFO - 🔍 Semantic search: đ88888
+2025-05-15 02:22:18,791 - INFO - 🔍 Semantic search: đ888888
+2025-05-15 02:22:19,441 - INFO - 🔍 Semantic search: đ8888888
+2025-05-15 02:22:25,090 - INFO - 🔍 Semantic search: chuyển 
+2025-05-15 02:22:26,717 - INFO - 🔍 Semantic search: chuyển hệ đap
+2025-05-15 02:22:29,020 - INFO - 🔍 Semantic search: chuyển hệ đào tạo
+2025-05-15 02:22:45,525 - INFO - 🔍 Semantic search: nha trang
+2025-05-15 02:22:45,978 - INFO - 🔍 Semantic search: nha trang
+2025-05-15 02:22:49,448 - INFO - 🔍 Semantic search: Nha 
+2025-05-15 02:22:50,704 - INFO - 🔍 Semantic search: Nha Trang
+2025-05-15 02:25:38,085 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:25:38,086 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:25:42,561 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-15 02:27:04,599 - INFO - Use pytorch device_name: cpu
+2025-05-15 02:27:04,600 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 02:27:09,819 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-05-15 02:28:41,464 - INFO - 🔍 Semantic search: thực 
+2025-05-15 02:28:42,616 - INFO - 🔍 Semantic search: thực tập
+2025-05-15 02:28:51,202 - INFO - 🔍 Semantic search: tốt nghiệp
+2025-05-15 02:28:51,275 - INFO - 🔍 Semantic search: tốt nghiệp
+2025-05-15 02:29:06,105 - INFO - 🔍 Semantic search: bìa đồ án
+2025-05-15 02:29:06,569 - INFO - 🔍 Semantic search: bìa đồ án
+2025-05-15 08:04:17,449 - INFO - Use pytorch device_name: cpu
+2025-05-15 08:04:17,449 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 08:04:52,420 - INFO - Use pytorch device_name: cpu
+2025-05-15 08:04:52,420 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-05-15 08:04:57,189 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`

@@ -1,0 +1,127 @@
+/* Root container to center content */
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: 'Inter', sans-serif;
+  background-color: #ffffff;
+}
+
+/* Card-style app container (optional) */
+.app-container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  border-radius: 16px;
+  background-color: #ffffff;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+}
+
+/* Title/Header */
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #1f2937;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+/* Input Section */
+.input-container {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.todo-input {
+  flex: 1 1 300px;
+  padding: 0.75rem 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border-color 0.2s ease;
+}
+
+.todo-input:focus {
+  outline: none;
+  border-color: #6366f1;
+  box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2);
+}
+
+/* Add Button */
+.add-button {
+  background-color: #111827;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.add-button:hover {
+  background-color: #1f2937;
+}
+
+/* Todos List */
+.todos-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+/* Single Todo Item */
+.todo-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f9fafb;
+  border: 1px solid #e5e7eb;
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+
+.todo-item:hover {
+  transform: translateX(4px);
+}
+
+/* Checkbox */
+.todo-checkbox {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  accent-color: #4f46e5;
+}
+
+/* Todo Text */
+.todo-text {
+  flex: 1;
+  margin: 0 1rem;
+  font-size: 1rem;
+  color: #374151;
+}
+
+.todo-text.completed {
+  text-decoration: line-through;
+  color: #9ca3af;
+}
+
+/* Delete Button */
+.delete-button {
+  background-color: #e11d48;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.delete-button:hover {
+  background-color: #be123c;
+}
